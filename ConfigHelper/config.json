@@ -1,0 +1,9 @@
+{
+	"Port": "",
+	"SqlPort": "",
+	"SqlSrv" : "",
+	"Instance": "",
+	"Database": "",
+	"SSL_CRT_FILE" : "",
+	"SSL_KEY_FILE" : ""
+}
